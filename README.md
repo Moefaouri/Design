@@ -9,4 +9,4 @@ This repository contains XD designs, wireframes, and prototypes for various proj
 
 ### Taskery
 - **File:** [Taskery.xd](Projects/Taskery/Taskery.xd)
-- **Prototype Link:** [View Prototype](Projects/Taskery/PrototypeLink.txt)
+- **Prototype Link:** [View Prototype](https://xd.adobe.com/view/813f13d4-ebfe-40cd-a95b-e4d32cbf3676-d46c/)
